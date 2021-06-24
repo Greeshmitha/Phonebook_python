@@ -1,2 +1,2 @@
 # Phonebook_python
-This is a mini project created as a part of PIECOMM - INFO PYTHON Machine Learning Internship
+This is a mini project created as a part of Python ML Summer Internship 2021 - Pie Infocomm Pvt. Ltd.
